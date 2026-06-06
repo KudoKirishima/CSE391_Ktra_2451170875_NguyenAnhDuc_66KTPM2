@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Go to gym",
+    "priority": "High"
+  },
+  {
+    "id": 2,
+    "name": "Read a book",
+    "priority": "Medium"
+  },
+  {
+    "id": 3,
+    "name": "Go to market",
+    "priority": "Low"
+  },
+  {
+    "id": 4,
+    "name": "Do homework",
+    "priority": "High"
+  },
+  {
+    "id": 5,
+    "name": "Clean room",
+    "priority": "Medium"
+  }
+]
